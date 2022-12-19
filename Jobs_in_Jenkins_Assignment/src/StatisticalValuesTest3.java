@@ -1,7 +1,3 @@
-package ism.ase.ro.tests;
-
-import ism.ase.ro.model.StatisticalException;
-import ism.ase.ro.model.StatisticalValues;
 import org.junit.Test;
 
 import java.util.ArrayList;

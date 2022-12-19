@@ -1,4 +1,3 @@
-package ism.ase.ro.model;
 
 import java.util.List;
 

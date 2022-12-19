@@ -1,13 +1,10 @@
-package ism.ase.ro.tests;
-
-import ism.ase.ro.model.StatisticalException;
-import ism.ase.ro.model.StatisticalValues;
 import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class StatisticalValuesTest1 {
 
